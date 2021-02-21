@@ -155,4 +155,6 @@ section {
     background-image: url(hero.jpg);
     height: 400px;
     background-size: cover;
+    background-position: center;
+    text-transform: uppercase;
 }
