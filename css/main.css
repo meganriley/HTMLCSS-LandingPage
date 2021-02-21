@@ -150,3 +150,9 @@ section {
     border-radius: 100px;
     max-width: 100%;
 }
+
+.hero {
+    background-image: url(hero.jpg);
+    height: 400px;
+    background-size: cover;
+}
