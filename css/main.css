@@ -234,3 +234,20 @@ section {
     font-weight: 700;
     line-height: 1;
 }
+
+.full-banner {
+    padding: 0 15px;
+    margin: 50px 0;
+    position: relative;
+}
+
+.full-banner:before {
+    content: "";
+    position: absolute;
+    border: 1px solid #ffffff;
+    border-top: 30px;
+    border-bottom: 30px;
+    border-left: 50px;
+    border-right: 50px;
+    z-index: 1;
+}
