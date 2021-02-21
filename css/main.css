@@ -270,7 +270,7 @@ section {
 
 .full-banner-sidebar h4 {
     size: 40px;
-    weight: 700;
+    font-weight: 700;
     font-style: italic;
     color: #637f94;
     line-height: 1;
