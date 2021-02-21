@@ -8,9 +8,6 @@ nav { padding: 10px 0; }
 h1, h2, h3, h4, h5, h6 { margin: 0; }
 /***************************************/
 .container {
-    top: 0;
-    bottom: 0;
-    left: auto;
-    right: auto;
+    margin: 0 auto;
     max-width: 1170px;
 }
