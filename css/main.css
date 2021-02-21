@@ -192,3 +192,17 @@ section {
 .banner img {
     width: 250px;
 }
+
+.banner-text {
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1;
+    text-align: center;
+}
+
+.banner-text > div:last-child {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 5px;
+}
