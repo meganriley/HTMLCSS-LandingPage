@@ -48,12 +48,12 @@ section {
     line-height: 1.4;
 }
 
-btn-default {
+.btn-default {
     color: white;
     background-color: #faa541;
 }
 
-btn-primary {
+.btn-primary {
     color: white;
     background-color: #364147;
 }
