@@ -388,3 +388,24 @@ footer a:hover {
     font-weight: 400;
     margin-bottom: 15px;
 }
+
+.newsletter input {
+    border: 1px solid #364147;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.newsletter button {
+    width: 150px;
+    min-width: auto;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.ps {
+    flex: 0 0 25%;
+    padding: 40px 0;
+    color: #e5e5e5;
+    font-size: 16px;
+    max-width: 230px;
+}
