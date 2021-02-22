@@ -327,9 +327,7 @@ footer:after {
 
 .lists {
     flex: 0 0 75%;
-    column-gap: 15px 15px;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px 15px;
 }
 
 .link-header {
